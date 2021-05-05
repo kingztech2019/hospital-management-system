@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Shahid Afridi Zihad",
+  "author": "Oluwajuwon Falore",
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.1",
