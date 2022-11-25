@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Oluwajuwon Falore",
+  "author": "Tushar Sharma",
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.1",
